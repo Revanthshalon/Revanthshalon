@@ -16,5 +16,3 @@
 - 📫 How to reach me **revanthshalon@duck.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Revanthshalon&show_icons=true&locale=en" alt="Revanthshalon" /></p>
-
-<a href="https://app.daily.dev/revanthshalon"><img src="https://api.daily.dev/devcards/db15de771c504775892c1ef4699fb62f.png?r=w5z" width="400" alt="RevanthShalon's Dev Card"/></a>

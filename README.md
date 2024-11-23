@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Revanth</h1>
 <h3 align="center">Data Scientist with a passion in Development</h3>
 

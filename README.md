@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Revanthshalon&label=Profile%20views&color=0e75b6&style=flat" alt="Revanthshalon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Revanthshalon" alt="Revanthshalon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Revanthshalon&column=-1&theme=onedark" alt="Revanthshalon" /></a> </p>
 
 - 🔭 I’m currently working on **JustID**
 

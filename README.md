@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Revanthshalon&column=-1&theme=onedark" alt="Revanthshalon" /></a> </p>
 
-- 🔭 I’m currently working on **JustID**
+- 🔭 I’m currently working on **AuthOS**
 
 - 🌱 I’m currently learning **System Architecture**
 
